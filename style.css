@@ -1,0 +1,14 @@
+body {
+  background-color: #f6ff54;
+  background-image: url(corn_background.jpg);
+}
+h1 {
+  font-family: "impact";
+  font-size: 50;
+  color: white;
+  -webkit-text-stroke: 2px black;
+  margin-left: 48%;
+}
+iframe {
+  margin-left: 31%;
+}
